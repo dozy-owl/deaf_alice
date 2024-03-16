@@ -28,7 +28,7 @@ def handler(event, context):
             'version': data['version'],            
             'session': data['session'],
             'response': {                
-                'text': 'Доброго времени суток! Навык "Слышать" активирован.',
+                'text': 'Доброго времени суток! Навык "Семейный разговор" активирован.',
                 'end_session': False           
                 }
         }    
